@@ -1,7 +1,7 @@
 <img align="center" width="100%" src="https://raw.githubusercontent.com/fadymondy/fadymondy/main/header.png" alt="Fady Mondy" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Fady+Mondy+%F0%9F%91%8B;Founder+of+TomatoPHP+%F0%9F%8D%85;CPTO+%40+One-Studio+%E2%9A%A1;Laravel+%2B+Filament+%2B+Go+%2B+Rust+Engineer;Building+AI+Agents+%26+Open+Source+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Fady+Mondy+%F0%9F%91%8B;Founder+of+TomatoPHP+%F0%9F%8D%85;CPTO+%40+One-Studio+%E2%9A%A1;Laravel+%2B+Filament+%2B+Go+%2B+Rust+Engineer;Building+AI+Agents+%26+Open+Source+Tools;Crafting+Claude+Code+Plugins+%26+MCP+Tools" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -13,6 +13,9 @@
     </a>
     <a href="https://github.com/fadymondy">
         <img src="https://komarev.com/ghpvc/?username=fadymondy&style=for-the-badge&color=6366f1&labelColor=000000&label=PROFILE+VIEWS">
+    </a>
+    <a href="https://github.com/sponsors/fadymondy">
+        <img src="https://img.shields.io/badge/Sponsor-fadymondy-6366f1?style=for-the-badge&logo=githubsponsors&labelColor=000000" />
     </a>
 </p>
 
@@ -29,12 +32,13 @@ focus:
   - Laravel / Filament (TALL & VILT stack)
   - Go & Rust in production
   - AI agents, MCP & multi-agent systems
-open_source: 90+ packages under TomatoPHP
-collaborate_on: Filament PHP, VILT, Open Source
+  - Claude Code plugins & developer tooling
+open_source: 90+ TomatoPHP packages + a growing Go & AI-tooling ecosystem
+collaborate_on: Filament PHP, VILT, Go, Claude Code, Open Source
 reach_me:
   whatsapp: "+20 120 786 0084"
   email: info@3x1.io
-  blog: https://3x1.io
+  blog: https://fadymondy.com
 ```
 
 <div align="center">
@@ -55,9 +59,9 @@ reach_me:
 
 ---
 
-## 🍅 Featured Open Source
+## 🚀 Featured Open Source
 
-<h3 align="center">Awesome TomatoPHP — 90+ Laravel & Filament packages</h3>
+<h3 align="center">🍅 Awesome TomatoPHP — 90+ Laravel & Filament packages</h3>
 <p align="center">A curated ecosystem of admin tooling, plugins, and building blocks for modern PHP apps.</p>
 
 <p align="center">
@@ -78,7 +82,7 @@ reach_me:
 
 <br/>
 
-<h3 align="center">ToGO — full-stack Go + React framework 🐹⚡</h3>
+<h3 align="center">🐹 ToGO — full-stack Go + React framework ⚡</h3>
 <p align="center">Ship your Go backend and React frontend as a single binary — a Laravel-artisan-grade CLI for the Go + sqlc + Atlas + React stack. 40+ repos: kernel, CLI, UI design system, DB drivers, plugins, and a public MCP.</p>
 
 <p align="center">
@@ -90,6 +94,58 @@ reach_me:
 
 <p align="center">
   👉 <a href="https://to-go.dev"><b>to-go.dev</b></a> &nbsp;·&nbsp; <code>npm i -g @togo-framework/cli</code>
+</p>
+
+---
+
+## 🧩 More Frameworks & Ecosystems
+
+<h3 align="center">🎛️ Laravilt — a Laravel admin panel, powered by the frontend</h3>
+<p align="center">Vue 3 · Inertia.js · Tailwind v4 · shadcn/vue — with AI baked in. Filament's power, driven by a modern SPA frontend.</p>
+<p align="center">
+  <a href="https://laravilt.com"><img src="https://img.shields.io/badge/Website-laravilt.com-6366f1?style=for-the-badge&logo=laravel&labelColor=000000" /></a>
+  <a href="https://github.com/laravilt/laravilt"><img src="https://img.shields.io/github/stars/laravilt/laravilt?style=for-the-badge&logo=github&color=6366f1&labelColor=000000&label=STARS" /></a>
+  <a href="https://github.com/laravilt"><img src="https://img.shields.io/badge/Explore-laravilt-6366f1?style=for-the-badge&logo=github&labelColor=000000" /></a>
+</p>
+
+<br/>
+
+<h3 align="center">⚡ Accelade — Reactive Blade. Zero Complexity.</h3>
+<p align="center">Brings reactivity to plain Laravel Blade without the weight of a full SPA — with the frontend of your choice.</p>
+<p align="center">
+  <a href="https://github.com/accelade"><img src="https://img.shields.io/badge/Explore-accelade-6366f1?style=for-the-badge&logo=github&labelColor=000000" /></a>
+</p>
+
+<br/>
+
+<h3 align="center">🤖 Orchestra MCP — an AI-agentic IDE framework</h3>
+<p align="center">A plugin-host architecture for the next generation of multi-agent developer tools.</p>
+<p align="center">
+  <a href="https://orchestra-mcp.dev"><img src="https://img.shields.io/badge/Website-orchestra--mcp.dev-6366f1?style=for-the-badge&logo=googlechrome&labelColor=000000" /></a>
+  <a href="https://github.com/orchestra-mcp"><img src="https://img.shields.io/badge/Explore-orchestra--mcp-6366f1?style=for-the-badge&logo=github&labelColor=000000" /></a>
+</p>
+
+---
+
+## 🛠️ AI & Claude Code Toolkit
+
+A growing suite of plugins and MCP tools that make agentic development with **Claude Code** genuinely productive.
+
+| Project | What it does |
+|---|---|
+| 👥 **[agents-team](https://github.com/fadymondy/agents-team)** | Generate a complete agent team — orchestrator, specialist agents, `/meet` multi-agent sessions, and an agent-quality evaluator. |
+| 📋 **[gh-pms](https://github.com/fadymondy/gh-pms)** | Turns GitHub Issues into a real project-management system for Claude Code — evidence-gated lifecycle, PR-driven review, native GitHub primitives. |
+| 🔔 **[claude-notifications](https://github.com/fadymondy/claude-notifications)** | Multi-channel alerts when Claude finishes or needs you — Slack, Discord, email, WhatsApp, desktop voice, web push & webhooks. |
+| 📸 **[claude-cap](https://github.com/fadymondy/claude-cap)** | Capture a live Chrome tab — screenshot + URL + network + console — and hand the whole bundle to Claude over MCP. |
+| 🪞 **[claude-twin](https://github.com/fadymondy/claude-twin)** | A fully local digital twin that monitors & drives 17 web apps you're already signed into, from inside Claude Code. |
+| 📝 **[mark-it-down](https://github.com/fadymondy/mark-it-down)** | A beautiful markdown viewer & editor for VSCode — live mermaid, sortable tables, code-block exports, notes sidebar & its own MCP server. |
+
+---
+
+## 🧪 Also Building
+
+<p align="center">
+  🩺 <b><a href="https://github.com/fadymondy/health-debug">health-debug</a></b> — an on-device-AI health & metabolic tracker for iPhone, Mac & Apple Watch, built for desk-bound engineers.
 </p>
 
 ---
@@ -180,15 +236,20 @@ reach_me:
 ## ❤️ Support My Open Source Work
 
 <p align="center">
+  Every framework and tool above is built and maintained in the open — nights, weekends, and between client work.<br/>
+  If any of it saves you time, sponsoring keeps the issues answered, the releases shipping, and the next project alive.
+</p>
+
+<p align="center">
   <a href="https://github.com/sponsors/fadymondy">
     <img src="https://img.shields.io/badge/Sponsor-fadymondy-6366f1?style=for-the-badge&logo=githubsponsors&labelColor=000000" />
   </a>
-  <a href="https://3x1.io">
+  <a href="https://fadymondy.com">
     <img src="https://img.shields.io/badge/Read_My_Blog-3x1.io-6366f1?style=for-the-badge&logo=hashnode&labelColor=000000" />
   </a>
 </p>
 
-<p align="center"><i>⭐️ If my packages help you, a star on <a href="https://github.com/tomatophp">TomatoPHP</a> means the world!</i></p>
+<p align="center"><i>⭐️ If my work saves you time, a star — or a sponsorship — keeps it all moving.</i></p>
 
 <!--
 =========================================================================
